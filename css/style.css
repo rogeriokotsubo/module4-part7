@@ -98,15 +98,7 @@ main {
   height: 10vh;
   width: 7vw;
   color: rebeccapurple;
-  border-color: red;
+  border-color: currentColor;
   border-style: solid;
-  border-width: 1px;
-}
-#filho{
-  height: 5vh;
-  width: 3vw;
-  background-color: inherit;
-  border-color: red;
-  border-style: solid;
-  border-width: 1px;
+  border-width: 3px;
 }
